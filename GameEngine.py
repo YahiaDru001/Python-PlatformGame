@@ -1,5 +1,5 @@
 #########################################################################################
-# print("This Game devloped by Yahia Droubi - 2016 - , NO Engines , NO Pre-implementations Funcs")
+# print("This Game devloped by Yahia Droubi - 2017 - , NO Engines , NO Pre-implementations Funcs")
 ################################################
 
 
@@ -1787,7 +1787,7 @@ def myGameFun():
 
     py.quit()
 #########################################################################################
-# print("This Game devloped by Yahia Droubi - 2016 - , NO Engines , NO Pre-implementations Funcs")
+# print("This Game devloped by Yahia Droubi - 2017 - , NO Engines , NO Pre-implementations Funcs")
 ################################################
 ####         ##          ##    ######
 ####          ##        ##    ##     #
